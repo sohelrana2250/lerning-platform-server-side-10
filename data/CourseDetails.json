@@ -61,14 +61,15 @@
             "Learn to build deep learning neural networks",
             "Basic Algoritm",
             "Linear Regrition",
-            "KNN Algorithm"
+            "KNN Algorithm",
+            "logistic regression"
         ]
     },
     {
         "id": 6,
         "CourseHeader": "Here are some examples of popular DBMS used these days: MySql, Oracle, SQL Server, IBM DB2, PostgreSQL, Amazon SimpleDB (cloud based) etc.",
         "course body": "Advanced database systems try to meet the requirements of present-day database applications by offering advanced functionality in terms of data modeling, multimedia data type support, data integration capabilities, query languages, system features, and interfaces to other worlds.There are three relational database options in Google Cloud: Cloud SQL, Cloud Spanner, and Bare Metal Solution. Cloud SQL: Provides managed MySQL, PostgreSQL and SQL Server databases on Google Cloud.Google Cloud provides a limitless platform based on decades of developing one-of-a-kind database systems. Experience massive scalability and data durability from the same underlying architecture that powers Google's most popular, global products, like YouTube, Search, and Maps.",
-        " image": "https://www.filepicker.io/api/file/o1HWDZmnQx66xTs1z0Mk",
+        " image": "https://www.endashawwolde.com/wp-content/uploads/2020/08/ADB-1.x18308.png",
         "CourseTopic": [
             "Determine the purpose of your database",
             "Find and organize the information required",
