@@ -2,8 +2,8 @@
     {
         "id": 1,
         "CourseHeader": "A header file is a file with extension . which contains C function declarations and macro definitions to be shared between several source files.",
-        "course body": "You request to use a header file in your program by including it with the C preprocessing directive #include, like you have seen inclusion of stdio.h header file, which comes along with your compiler.Including a header file is equal to copying the content of the header file but we do not do it because it will be error-prone and it is not a good idea to copy the content of a header file in the source files, especially if we have multiple source files in a program.A simple practice in C or C++ programs is that we keep all the constants, macros, system wide global variables, and function prototypes in the header files and include that header file wherever it is required.",
-        " image": "https://i.pinimg.com/736x/f9/7d/fb/f97dfbb7643bfdb4a654c286fd6bbfad.jpg",
+        "courseBody": "You request to use a header file in your program by including it with the C preprocessing directive #include, like you have seen inclusion of stdio.h header file, which comes along with your compiler.Including a header file is equal to copying the content of the header file but we do not do it because it will be error-prone and it is not a good idea to copy the content of a header file in the source files, especially if we have multiple source files in a program.A simple practice in C or C++ programs is that we keep all the constants, macros, system wide global variables, and function prototypes in the header files and include that header file wherever it is required.",
+        "image": "https://i.pinimg.com/736x/f9/7d/fb/f97dfbb7643bfdb4a654c286fd6bbfad.jpg",
         "CourseTopic": [
             "C Introduction",
             "C Functions",
@@ -15,8 +15,8 @@
     {
         "id": 2,
         "CourseHeader": "In information technology, header refers to supplemental data placed at the beginning of a block of data being stored or transmitted. In data transmission",
-        "course body": "A Header linked list is one more variant of linked list. In Header linked list, we have a special node present at the beginning of the linked list. This special node is used to store number of nodes present in the linked list. In other linked list variant, if we want to know the size of the linked list we use traversal method. But in Header linked list, the size of the linked list is stored in its header itself.",
-        " image": "https://w7.pngwing.com/pngs/580/809/png-transparent-data-structure-logo-brand-data-structure-blue-text-logo.png",
+        "courseBody": "A Header linked list is one more variant of linked list. In Header linked list, we have a special node present at the beginning of the linked list. This special node is used to store number of nodes present in the linked list. In other linked list variant, if we want to know the size of the linked list we use traversal method. But in Header linked list, the size of the linked list is stored in its header itself.",
+        "image": "https://w7.pngwing.com/pngs/580/809/png-transparent-data-structure-logo-brand-data-structure-blue-text-logo.png",
         "CourseTopic": [
             "Liner-Data-Structure",
             "Non-Liner-Data Structure",
@@ -28,8 +28,8 @@
     {
         "id": 3,
         "CourseHeader": "Header files contain definitions of Functions and Variables, which is imported or used into any C++ program by using the pre-processor #include statement. Header file have an extension",
-        "course body": "Object-Oriented programming (OOP) refers to a type of programming in which programmers define the data type of a data structure and the type of operations that can be applied to the data structure.As Java being the most sought-after skill, we will talk about object-oriented programming concepts in Java. An object-based application in Java is based on declaring classes, creating objects from them and interacting between these objects. I have discussed Java Classes and Objects which is also a part of object-oriented programming concepts, in my previous blog.",
-        " image": "https://mohanma.com/wp-content/uploads/2018/02/oop.jpg",
+        "courseBody": "Object-Oriented programming (OOP) refers to a type of programming in which programmers define the data type of a data structure and the type of operations that can be applied to the data structure.As Java being the most sought-after skill, we will talk about object-oriented programming concepts in Java. An object-based application in Java is based on declaring classes, creating objects from them and interacting between these objects. I have discussed Java Classes and Objects which is also a part of object-oriented programming concepts, in my previous blog.",
+        "image": "https://mohanma.com/wp-content/uploads/2018/02/oop.jpg",
         "CourseTopic": [
             "Inheritance",
             "Encapsulation",
@@ -40,8 +40,8 @@
     {
         "id": 4,
         "CourseHeader": "C++ Algorithm includes() C++ Algorithm includes() function returns true if every element from the sorted range [first2, last2) is found within the sorted range [first1, last1). It also returns true if [first2, last2) is empty.",
-        "course body": "An input iterator pointing to the past last element in the first of two sorted source sequence to be tested for whether all the elements of second are contained in the first.An input iterator pointing to the first element in the second sorted source sequence to be tested for whether all the elements of second are contained in the first.A user-defined binary predicate function that accepts two arguments and returns true if the t",
-        " image": "https://cdn.dribbble.com/users/3618393/screenshots/14080848/30.jpg",
+        "courseBody": "An input iterator pointing to the past last element in the first of two sorted source sequence to be tested for whether all the elements of second are contained in the first.An input iterator pointing to the first element in the second sorted source sequence to be tested for whether all the elements of second are contained in the first.A user-defined binary predicate function that accepts two arguments and returns true if the t",
+        "image": "https://cdn.dribbble.com/users/3618393/screenshots/14080848/30.jpg",
         "CourseTopic": [
             "Have a good understanding of the basics.",
             "Clearly understand what happens in an algorithm",
@@ -53,8 +53,8 @@
     {
         "id": 5,
         "CourseHeader": "As such, the five basic components of artificial intelligence include learning, reasoning, problem-solving, perception, and language understanding",
-        "course body": "Despite the number of products and services that utilize artificial intelligence in their respective functions, many people may be wondering about the different components that allow AI to function in the first place. With this being said, while the development of artificial intelligence is a nuanced and complex process, it does not differ from any other machine or system in that there are basic rules that govern its operation. As such, the five basic components of artificial intelligence include learning, reasoning, problem-solving, perception, and language understanding. Through the implementation of these five basic components, software developers and engineers have been able to create a multitude of technologies and services that consumers around the globe have come to covet and revere.",
-        " image": "https://www.analyticsinsight.net/wp-content/uploads/2021/10/Artificial-Intelligence-2.jpg",
+        "courseBody": "Despite the number of products and services that utilize artificial intelligence in their respective functions, many people may be wondering about the different components that allow AI to function in the first place. With this being said, while the development of artificial intelligence is a nuanced and complex process, it does not differ from any other machine or system in that there are basic rules that govern its operation. As such, the five basic components of artificial intelligence include learning, reasoning, problem-solving, perception, and language understanding. Through the implementation of these five basic components, software developers and engineers have been able to create a multitude of technologies and services that consumers around the globe have come to covet and revere.",
+        "image": "https://www.analyticsinsight.net/wp-content/uploads/2021/10/Artificial-Intelligence-2.jpg",
         "CourseTopic": [
             "Learn Python",
             "Learn data science tools such as Jupyter and Anaconda.",
@@ -68,8 +68,8 @@
     {
         "id": 6,
         "CourseHeader": "Here are some examples of popular DBMS used these days: MySql, Oracle, SQL Server, IBM DB2, PostgreSQL, Amazon SimpleDB (cloud based) etc.",
-        "course body": "Advanced database systems try to meet the requirements of present-day database applications by offering advanced functionality in terms of data modeling, multimedia data type support, data integration capabilities, query languages, system features, and interfaces to other worlds.There are three relational database options in Google Cloud: Cloud SQL, Cloud Spanner, and Bare Metal Solution. Cloud SQL: Provides managed MySQL, PostgreSQL and SQL Server databases on Google Cloud.Google Cloud provides a limitless platform based on decades of developing one-of-a-kind database systems. Experience massive scalability and data durability from the same underlying architecture that powers Google's most popular, global products, like YouTube, Search, and Maps.",
-        " image": "https://www.endashawwolde.com/wp-content/uploads/2020/08/ADB-1.x18308.png",
+        "courseBody": "Advanced database systems try to meet the requirements of present-day database applications by offering advanced functionality in terms of data modeling, multimedia data type support, data integration capabilities, query languages, system features, and interfaces to other worlds.There are three relational database options in Google Cloud: Cloud SQL, Cloud Spanner, and Bare Metal Solution. Cloud SQL: Provides managed MySQL, PostgreSQL and SQL Server databases on Google Cloud.Google Cloud provides a limitless platform based on decades of developing one-of-a-kind database systems. Experience massive scalability and data durability from the same underlying architecture that powers Google's most popular, global products, like YouTube, Search, and Maps.",
+        "image": "https://www.endashawwolde.com/wp-content/uploads/2020/08/ADB-1.x18308.png",
         "CourseTopic": [
             "Determine the purpose of your database",
             "Find and organize the information required",
