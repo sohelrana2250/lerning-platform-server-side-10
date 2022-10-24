@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "CourseName": "Structure C Programming"
+    },
+    {
+        "id": 2,
+        "CourseName": "Data Structure"
+    },
+    {
+        "id": 3,
+        "CourseName": "object oriented programming"
+    },
+    {
+        "id": 4,
+        "CourseName": "Algorithm"
+    },
+    {
+        "id": 5,
+        "CourseName": "Artificial Intelligence"
+    },
+    {
+        "id": 6,
+        "CourseName": "Advance Data-Base"
+    }
+]
