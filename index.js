@@ -5,8 +5,14 @@ const courseDetails = require('./data/CourseDetails.json');
 const port = 5004;
 const cors = require('cors');
 
-//https://b610-lerning-platform-server-side-one.vercel.app/CourseDetails
-//https://b610-lerning-platform-server-side-one.vercel.app/CourseInfo
+/* 
+
+vercel-server-deploy 
+
+https://b610-lerning-platform-server-side-one.vercel.app/CourseDetails
+https://b610-lerning-platform-server-side-one.vercel.app/CourseInfo
+
+*/
 
 app.use(cors());
 
